@@ -1,0 +1,7 @@
+{
+	"name": "com.audiobox.tasks",
+	"displayName": "AudioBox Tasks",
+	"version": "1.0.0",
+	"description": "AudioBox frame dependent tasks.",
+	"unity": "2019.3"
+}
